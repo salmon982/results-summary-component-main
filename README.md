@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution]( https://www.frontendmentor.io/solutions/result-summary-page-with-basic-html-css-using-flexbox-w4Ihyth46v)
 - Live Site URL: [My livesite](https://basicresultsummarysolution.netlify.app/)
 
 ## My process
