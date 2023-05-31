@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://basicresultsummarysolution.netlify.app/)
+- Solution URL: [My Solution](https://your-solution-url.com)
+- Live Site URL: [My livesite](https://basicresultsummarysolution.netlify.app/)
 
 ## My process
 
